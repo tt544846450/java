@@ -1,2 +1,2 @@
 # java
-what dou you mean 10?
+how dou you mean 10?
